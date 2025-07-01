@@ -1,0 +1,22 @@
+# Ignore executable files
+*.exe
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore other common C build artifacts
+*.out
+*.a
+*.so
+*.dll
+
+# Ignore IDE and editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
